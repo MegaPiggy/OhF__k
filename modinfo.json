@@ -1,0 +1,10 @@
+﻿{
+  "id": "ohfuck",
+  "name": "Oh Fuck",
+  "author": "MegaPiggy",
+  "description": "Adds an \"oh fuck\" death sound to amelia.",
+  "version": "1.0",
+  "load_before": [
+    "beeg_ame"
+  ]
+}
